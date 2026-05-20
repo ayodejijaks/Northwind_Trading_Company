@@ -74,4 +74,4 @@ The written report (`Northwind_Sales_Report - Google Docs.pdf`) is structured as
 ## Author
 
 **Ayodeji** — Data & Financial Analysis  
-[LinkedIn](#) <!-- https://www.linkedin.com/in/ayodeji-jakande-5a4054325/ -->
+[LinkedIn](https://www.linkedin.com/in/ayodeji-jakande-5a4054325/)
