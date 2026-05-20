@@ -29,7 +29,7 @@ Northwind Trading Company operates across 21 countries, distributing eight produ
 | File | Description |
 |------|-------------|
 | `northwind_dashboard.gif` | Preview of the Excel dashboard |
-| `Northwind_Sales_Report.docx` | Full written report with findings and recommendations |
+| `Northwind_Sales_Report - Google Docs.pdf` | Full written report with findings and recommendations |
 | `Excel_Assessment.xlsx` | Excel workbook with pivot tables and dashboard |
 
 ---
@@ -49,7 +49,7 @@ The Excel dashboard includes:
 
 ## Report Structure
 
-The written report (`Northwind_Sales_Report.docx`) is structured as follows:
+The written report (`Northwind_Sales_Report - Google Docs.pdf`) is structured as follows:
 
 1. **Introduction** — scope, context, and areas of focus
 2. **Findings & Insights** — seven sections covering financial performance, geographic breakdown, monthly trends, product categories, top products, top customers, and logistics
